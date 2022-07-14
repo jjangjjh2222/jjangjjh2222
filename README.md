@@ -28,6 +28,7 @@
 <br> 
  <h3>☘ Experiences ☘</h3>
                                                                                         
+<h6><img src= "https://img.shields.io/badge/Facebook University-2th-important"/> 2022.04.25~2022.07.07</h6>
 <h6><img src= "https://img.shields.io/badge/LikeLion-10th-important"/> 2022.03~</h6>
 <!--<h6><img src= "https://img.shields.io/badge/UMC-2th-00C386"/> 2022.03~</h6> -->
                                                                                                   
