@@ -1,7 +1,5 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=808080&height=200&section=header&text=Jeahyeon's%20Github&fontSize=35&fontColor=FFFFFF&fontAlignY=40&animation=twinkling) 
- 
  <h3>:raising_hand: Hello, I'm Jeahyeon! :raising_hand:</h3> 
  <h5>I go to Hanyang-Erica University.  
   I major in Software.</h5> 
@@ -39,7 +37,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
                                                                                                   
 <br>
 
- 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=808080&height=200&section=footer)
+
  
 </div>
