@@ -1,17 +1,13 @@
 <div align=center>
 
- <h3>:raising_hand: Hello, I'm Jeahyeon! :raising_hand:</h3> 
+ # :raising_hand: Hi, I'm Jaehyeon!
  <h5>I go to Hanyang-Erica University.  
   I major in Software.</h5> 
-<br> 
+<br>
 <h3>✨ be into ✨</h3> 
-<h5>◾ Front-end</h5>
+<h5>◾ Back-end</h5>
 <br> 
  <h3>:love_letter: Link :love_letter: </h3>
- <a href="https://www.instagram.com/">
-<img src="https://img.shields.io/badge/E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/"
-style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
  
 <a href="mailto:jjangjjh21@gmail.com">
  <img src="https://img.shields.io/badge/jjangjjh21@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jjangjjh21@gmail.com"/></a>
